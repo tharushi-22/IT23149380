@@ -16,8 +16,8 @@ This repository contains a Python script that automates frontend translation tes
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/tharushi-22/IT23149380_ITPM_Assignment1.git
-cd IT23149380_ITPM_Assignment1
+git clone https://github.com/tharushi-22/IT23149380.git
+cd IT23149380
 ```
 
 ### 2. Install dependencies
